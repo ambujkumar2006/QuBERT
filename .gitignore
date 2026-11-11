@@ -1,0 +1,21 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# VS Code Local History / Checkpoints
+.history/
+
+# Data and Experiment Checkpoints
+Twitter_Data.csv
+checkpoints/
+*.pth
+
+Results/
+misc/
+figures/
+Results Misc/
+Twitter_Data.csv/
