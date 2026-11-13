@@ -136,8 +136,8 @@ Future work will investigate larger quantum circuits, multiple random seeds, bot
 
 Qu-BERT: Quantum-Driven Transformer Architecture for Robust Text Sentiment Analysis
 
-Authors: Ambuj Kumar and Sumit Kumar
-Affiliation: Motilal Nehru College, University of Delhi, India.
+**Authors:** Ambuj Kumar and Sumit Kumar\
+**Affiliation:** Motilal Nehru College, University of Delhi, India.
 
 ## 10. Citation
 
