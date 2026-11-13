@@ -1,4 +1,4 @@
-# Qu-BERT: A Hybrid Quantum–Classical Architecture for Text Sentiment Analysis
+# Qu-BERT: ON LEARNABLE QUANTUM REPRESENTATIONS FOR SENTIMENT ANALYSIS
 
 Qu-BERT is a hybrid quantum–classical model that combines **BERT** with a **Variational Quantum Circuit (VQC)** for three-class sentiment classification.
 
