@@ -131,3 +131,22 @@ The current study has several limitations:
 - Robustness and probability calibration have not been evaluated.
 
 Future work will investigate larger quantum circuits, multiple random seeds, bottleneck-matched classical comparisons, finite-shot measurements, quantum noise, and execution on physical quantum hardware.
+
+## 9. Research Paper
+
+Qu-BERT: Quantum-Driven Transformer Architecture for Robust Text Sentiment Analysis
+
+Authors: Ambuj Kumar and Sumit Kumar
+Affiliation: Motilal Nehru College, University of Delhi, India.
+
+## 10. Citation
+
+If you use this implementation in your research, please cite the associated Qu-BERT paper.
+
+Kumar, A. and Kumar, S.,
+"Qu-BERT: Quantum-Driven Transformer Architecture
+for Robust Text Sentiment Analysis."
+
+## 11. Acknowledgements
+
+This project uses BERT from Hugging Face Transformers and PennyLane for quantum circuit simulation.
